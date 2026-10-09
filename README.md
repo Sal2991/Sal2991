@@ -1,28 +1,24 @@
-# Hi 👋, I'm sal
+Hey, I'm Sal! 👋
+🎮 Roblox Developer | 💻 C++ Enthusiast
 
-### 🎮 Roblox Developer & Software Engineer
+I'm a developer interested in game development, programming, and building systems that make games better.
 
-- 🔭 **Current Project:** Building a high-performance **CPP Job System**
-- 🌱 **Learning Focus:** Mastering advanced **C++** and systems engineering
-- 💬 **Ask me about:** Roblox development, 3D modeling, and game design
+🔭 Currently working on a C++ Job System
+🌱 Currently learning C++
+🎯 Interested in game systems, performance, and software development
+🛠️ Always experimenting with new tools and technologies
+🧰 Languages & Tools
 
----
+<p align="left"> <a href="https://www.blender.org/"> <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="40" height="40"/> </a> <a href="https://isocpp.org/"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/> </a> <a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/illustrator.html"> <img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" width="40" height="40"/> </a> <a href="https://www.java.com/"> <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/photoshop.html"> <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" width="40" height="40"/> </a> <a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/> </a> <a href="https://unity.com/"> <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40"/> </a> </p>
 
-### 🛠️ Languages and Tools
+🚀 Featured Project
 
-<p align="left"> 
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="git" width="40" height="40"/> </a> 
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="lua" width="40" height="40"/> </a> 
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="blender" width="40" height="40"/> </a> 
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="photoshop" width="40" height="40"/> </a> 
-</p>
+C++ Job System
 
----
+Currently developing a job system in C++ to explore task scheduling, multithreading, and efficient workload management.
 
-### 📊 GitHub Statistics
+More updates coming soon!
 
-<p align="left">
-  <img src="https://vercel.app" alt="sal's GitHub Stats" height="180" />
-  <img src="https://vercel.app" alt="Top Languages" height="180" />
-</p>
+📊 GitHub Activity
+
+!Profile Views
