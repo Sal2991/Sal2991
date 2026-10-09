@@ -1,11 +1,36 @@
 # Hi 👋, I'm sal
 
-### Roblox Dev
+### 🎮 Roblox Developer & Software Engineer
 
-- 🔭 I'm currently working on **CPP Job System**
+<p align="left">
+  <img src="https://shields.io" alt="Roblox Dev" />
+  <img src="https://shields.io" alt="C++ Learner" />
+</p>
 
-- 🌱 I'm currently learning **C++**
+- 🔭 **Current Project:** Building a high-performance **CPP Job System**
+- 🌱 **Learning Focus:** Mastering advanced **C++** and systems engineering
+- 💬 **Ask me about:** Roblox development, 3D modeling, and game design
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+---
 
+### 🛠️ Languages and Tools
+
+<p align="left"> 
+  <!-- Game Dev & Design -->
+  <img src="https://skillicons.dev" alt="3D and Game Engines" />
+  <br><br>
+  <!-- Programming Languages & Tools -->
+  <img src="https://skillicons.dev" alt="Languages and Git" />
+  <br><br>
+  <!-- Creative Suite -->
+  <img src="https://skillicons.dev" alt="Creative Design" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="left">
+  <img src="https://vercel.app" alt="sal's GitHub Stats" height="180" />
+  <img src="https://vercel.app" alt="Top Languages" height="180" />
+</p>
