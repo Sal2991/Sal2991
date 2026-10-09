@@ -49,11 +49,15 @@ A C++ project focused on building a system for scheduling and executing tasks ef
 
 ---
 
-### `»` GitHub Statistics
+### » GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="160" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sal2991&show_icons=true&hide_border=true&theme=transparent" height="160" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sal2991&layout=compact&hide_border=true&theme=transparent" height="160" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sal2991&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
