@@ -26,5 +26,5 @@ A C++ job system built to explore multithreading, task scheduling, and thread sy
 ---
 
 <p align="center">
-  <sub>「 Always learning. Always building. 」</sub>
+  <sub>「 Always learning. 」</sub>
 </p>
