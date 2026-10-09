@@ -11,11 +11,11 @@
 ### 🛠️ Languages and Tools
 
 <p align="left"> 
-  <a href="https://w3schools.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="git" width="40" height="40"/> </a> 
-  <a href="https://lua.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="lua" width="40" height="40"/> </a> 
-  <a href="https://blender.org" target="_blank" rel="noreferrer"> <img src="https://blender.org" alt="blender" width="40" height="40"/> </a> 
-  <a href="https://photoshop.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="photoshop" width="40" height="40"/> </a> 
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="lua" width="40" height="40"/> </a> 
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="blender" width="40" height="40"/> </a> 
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
 ---
