@@ -1,20 +1,63 @@
-Hey, I'm Sal! 👋
-Roblox Developer | C++ Enthusiast
+# Sal
 
-I'm a developer interested in game development, programming, and building systems that make games better.
+`Roblox Developer` · `C++ Enthusiast`
 
-Currently working on a C++ Job System
-Currently learning C++
-Interested in game systems, performance, and software development
-Always experimenting with new tools and technologies
-Languages & Tools
+> Building systems. Exploring performance. Learning how things work under the hood.
 
-<p align="left"> <a href="https://www.blender.org/"> <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="40" height="40"/> </a> <a href="https://isocpp.org/"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/> </a> <a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/illustrator.html"> <img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" width="40" height="40"/> </a> <a href="https://www.java.com/"> <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/photoshop.html"> <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" width="40" height="40"/> </a> <a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/> </a> <a href="https://unity.com/"> <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40"/> </a> </p>
+---
 
-Featured Project
+### `»` About Me
 
-C++ Job System
+* `+` Currently developing a **C++ Job System**
+* `+` Learning modern C++ and multithreading
+* `+` Interested in game systems, performance, and systems programming
+* `+` Experimenting with software and creative tools
 
-Currently developing a job system in C++ to explore task scheduling, multithreading, and efficient workload management.
+---
 
-More updates coming soon!
+### `»` Languages & Tools
+
+<p align="left">
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="35" alt="C++"/></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="35" alt="Python"/></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="35" alt="Java"/></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="35" alt="Git"/></a>
+  <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" height="35" alt="Blender"/></a>
+  <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="35" alt="Unity"/></a>
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" height="35" alt="Illustrator"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" height="35" alt="Photoshop"/></a>
+</p>
+
+---
+
+### `»` Featured Project
+
+**`[01]` C++ Job System**
+
+`STATUS: IN DEVELOPMENT`
+
+A C++ project focused on building a system for scheduling and executing tasks efficiently.
+
+```text
+├── Task Scheduling
+├── Multithreading
+├── Thread Synchronization
+└── Performance Optimization
+```
+
+`⤷` More updates coming soon.
+
+---
+
+### `»` GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="160" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="160" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">
+  <code>「 Always learning. Always building. 」</code>
+</p>
